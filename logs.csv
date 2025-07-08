@@ -1,0 +1,7 @@
+timestamp,level,message
+2025-07-08 12:00:00,INFO,User login successful
+2025-07-08 12:01:00,INFO,File uploaded
+2025-07-08 12:01:10,ERROR,Disk I/O failure
+2025-07-08 12:01:12,ERROR,Disk I/O failure
+2025-07-08 12:01:15,ERROR,Disk I/O failure
+2025-07-08 12:02:00,INFO,Email sent
